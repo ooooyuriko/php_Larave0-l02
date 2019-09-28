@@ -1,6 +1,7 @@
+//PHP/Laeavel 02 課題5
 <?php
 $calender_2018 = [
-    "January" => "1月",
+  "January" => "1月",
   "February" => "2月",
   "March" => "3月",
   "April" => "4月",
@@ -11,5 +12,7 @@ $calender_2018 = [
   "September" => "9月",
   "October" => "10月",
   "November" => "11月",
-  "December" => "12月"];
-  echo $calender_2018[December];
+  "December" => "12月"
+  ];
+  echo $calender_2018["December"];
+  

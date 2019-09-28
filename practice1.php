@@ -1,3 +1,4 @@
+//PHP/Laeavel 02 課題1
 <?php
 $a = 3;
 $b = 7;
